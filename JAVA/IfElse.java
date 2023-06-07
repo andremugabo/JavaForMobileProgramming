@@ -14,6 +14,7 @@ public class IfElse {
         }else if(x > 17){
             System.out.println("Value of x is > 17");
         }else{
+            
             System.out.println("X is not equal to 10");
         }
     }
